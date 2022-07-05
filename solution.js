@@ -1,8 +1,8 @@
 //1
 
-const introSentence = 'Last year was ';
-const year = 2021;
-console.log(introSentence + year);
+const introSentence = 'Hello, I m ';
+const age = 32;
+console.log(introSentence + age);
 
 // + concatenate string and number 
 
